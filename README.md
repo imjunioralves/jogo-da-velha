@@ -15,11 +15,5 @@ Projeto criado como exercício de desenvolvimento front-end.
 
 ---
 
-## 🖼️ Demonstração
 
-*(Coloque aqui um print do jogo ou um gif mostrando ele funcionando)*
-
----
-
-## 📂 Estrutura do Projeto
 
